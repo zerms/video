@@ -172,9 +172,9 @@ img {
 
 @font-face {
     font-family: "iconfont";
-    src: url('/template/mmou/asset/font/font_4029079_pgf078ctg5o.woff2') format('woff2'),
-    url('/template/mmou/asset/font/font_4029079_pgf078ctg5o.woff') format('woff'),
-    url('/template/mmou/asset/font/font_4029079_pgf078ctg5o.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/zerms/video@1.0.1/asset/font/font_4029079_pgf078ctg5o.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/zerms/video@1.0.1/asset/font/font_4029079_pgf078ctg5o.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/zerms/video@1.0.1/asset/font/font_4029079_pgf078ctg5o.ttf') format('truetype');
 }
 
 .fa {
